@@ -1,0 +1,452 @@
+# Translation of Plugins - GoDaddy Email Marketing - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - GoDaddy Email Marketing - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-16 21:14:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - GoDaddy Email Marketing - Stable (latest release)\n"
+
+#: includes/blocks/blocks.js:136
+msgid "Connect Now"
+msgstr "Conectar"
+
+#: includes/blocks/blocks.js:136
+msgid "GoDaddy Email Marketing is not connected."
+msgstr "GoDaddy Email Marketing no está conectado."
+
+#: includes/blocks/blocks.js:29
+msgid "Form"
+msgstr "Formulario"
+
+#: includes/blocks/blocks.js:28
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/class-blocks.php:50
+msgid "There was an error retreiving the GEM form. Please try again."
+msgstr "Se ha producido un error al recuperar el formulario GEM. Por favor, inténtalo de nuevo."
+
+#: includes/blocks/blocks.js:23
+msgid "Display a GoDaddy email marketing form."
+msgstr "Mostrar un formulario de marketing por correo electrónico de GoDaddy."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://gem.godaddy.com/"
+msgstr "https://gem.godaddy.com/"
+
+#: includes/widget.php:167
+msgid "settings page"
+msgstr "página de ajustes"
+
+#. translators: %s: link to settings page
+#: includes/widget.php:163
+msgid "Please set up your GoDaddy Email Marketing account in the %s."
+msgstr "Por favor, configura tu cuenta de GoDaddy Email Marketing en el %s."
+
+#: includes/widget.php:147
+msgid "Form:"
+msgstr "Formulario:"
+
+#: includes/widget.php:138
+msgid "Additional Text:"
+msgstr "Texto adicional:"
+
+#: includes/widget.php:132
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/widget.php:24
+msgctxt "widget description"
+msgid "Embed GoDaddy Email Marketing signup forms in the sidebar."
+msgstr "Incrusta los formularios de registro de GoDaddy Email Marketing en la barra lateral."
+
+#: includes/widget.php:21 includes/blocks/blocks.js:87
+msgid "GoDaddy Email Marketing Form"
+msgstr "Formulario de marketing por correo electrónico de GoDaddy"
+
+#. translators: account details link
+#: includes/settings.php:871
+msgid "Sign in here"
+msgstr "Inicia sesión aquí"
+
+#: includes/settings.php:774
+msgid "Create a New Campaign"
+msgstr "Crear nueva campaña"
+
+#: includes/settings.php:760
+msgid "Refresh Forms"
+msgstr "Actualizar formularios"
+
+#: includes/settings.php:715
+msgctxt "save settings button"
+msgid "Save Settings"
+msgstr "Guardar ajustes"
+
+#: includes/settings.php:696
+msgid "Not seeing your form?"
+msgstr "¿No ves tu formulario?"
+
+#: includes/settings.php:673
+msgid "Preview"
+msgstr "Vista previa"
+
+#: includes/settings.php:670
+msgid "Edit form in GoDaddy Email Marketing"
+msgstr "Editar formulario en GoDaddy Email Marketing"
+
+#: includes/settings.php:670
+msgid "Opens in a new window"
+msgstr "Se abre en una nueva ventana/pestaña"
+
+#: includes/settings.php:653 includes/settings.php:660
+#: includes/settings.php:683
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/settings.php:652 includes/settings.php:659
+#: includes/settings.php:680
+msgid "Form ID"
+msgstr "ID de formulario"
+
+#: includes/settings.php:651 includes/settings.php:658
+#: includes/settings.php:666
+msgid "Form Name"
+msgstr "Nombre del Formulario"
+
+#: includes/settings.php:647
+msgid "Available Signup Forms"
+msgstr "Formularios de registro disponibles"
+
+#: includes/settings.php:636
+msgid "Reach Your Fans"
+msgstr "Llega a tus fans"
+
+#: includes/settings.php:629
+msgid "Help"
+msgstr "Ayuda"
+
+#: includes/settings.php:626
+msgid "Forms"
+msgstr "Formularios"
+
+#. translators: %s: Sign Up Now button
+#: includes/settings.php:616
+msgctxt "header button"
+msgid "Sign Up Now"
+msgstr "Regístrate"
+
+#. translators: %s: Sign Up Now button
+#: includes/settings.php:616
+msgctxt "Sign up button"
+msgid "New to GoDaddy? Create an account to get started today. %s"
+msgstr "¿Eres nuevo en GoDaddy? Crea una cuenta para comenzar hoy mismo. %s"
+
+#: includes/settings.php:613
+msgctxt "header note"
+msgid "You don't have any forms yet."
+msgstr "Aún no tienes ningún formulario."
+
+#: includes/settings.php:465
+msgid "Erase All Data"
+msgstr "Borrar todos los datos"
+
+#: includes/settings.php:436
+msgid "Cache Reset"
+msgstr "Restablecer caché"
+
+#: includes/settings.php:428
+msgid "Activated"
+msgstr "Activado"
+
+#: includes/settings.php:421
+msgid "Debug Mode"
+msgstr "Modo depuración"
+
+#: includes/settings.php:414
+msgid "Debugging"
+msgstr "Depurando"
+
+#: includes/settings.php:407
+msgid "Display \"Powered by GoDaddy\"?"
+msgstr "¿Mostar \"Funciona gracias a GoDaddy\"?"
+
+#: includes/settings.php:400
+msgid "Footer Link"
+msgstr "Enlace de pie de página"
+
+#: includes/settings.php:386
+msgid "API Key"
+msgstr "Clave de la API"
+
+#: includes/settings.php:372
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: includes/settings.php:365
+msgid "Account Details"
+msgstr "Detalles de la cuenta"
+
+#: includes/settings.php:334
+msgid "Contact GoDaddy"
+msgstr "Contactar con GoDaddy"
+
+#: includes/settings.php:333
+msgid "GoDaddy Help"
+msgstr "Ayuda de GoDaddy"
+
+#. Author of the plugin
+#: includes/settings.php:332 includes/blocks/blocks.js:27
+msgid "GoDaddy"
+msgstr "GoDaddy"
+
+#: includes/settings.php:331
+msgid "For more information:"
+msgstr "Para más información:"
+
+#: includes/settings.php:310
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: includes/settings.php:306
+msgid "Overview"
+msgstr "Resumen"
+
+#: includes/settings.php:269
+msgid "Settings have been updated."
+msgstr "Se han actualizado los ajustes."
+
+#: includes/settings.php:100
+msgctxt "failed copy response"
+msgid "Please press Ctrl/Cmd+C to copy."
+msgstr "Pulsa Ctrl / Cmd + C para copiar."
+
+#: includes/render.php:368
+msgid "Year"
+msgstr "Año"
+
+#: includes/render.php:360
+msgid "Day"
+msgstr "Día"
+
+#: includes/render.php:355
+msgid "December"
+msgstr "Diciembre"
+
+#: includes/render.php:354
+msgid "November"
+msgstr "Noviembre"
+
+#: includes/render.php:353
+msgid "October"
+msgstr "Octubre"
+
+#: includes/render.php:352
+msgid "September"
+msgstr "Septiembre"
+
+#: includes/render.php:351
+msgid "August"
+msgstr "Agosto"
+
+#: includes/render.php:350
+msgid "July"
+msgstr "Julio"
+
+#: includes/render.php:349
+msgid "June"
+msgstr "Junio"
+
+#: includes/render.php:348
+msgid "May"
+msgstr "May"
+
+#: includes/render.php:347
+msgid "April"
+msgstr "Abril"
+
+#: includes/render.php:346
+msgid "March"
+msgstr "Marzo"
+
+#: includes/render.php:345
+msgid "Febuary"
+msgstr "Febrero"
+
+#: includes/render.php:344
+msgid "January"
+msgstr "Enero"
+
+#: includes/render.php:343
+msgid "Month"
+msgstr "Mes"
+
+#: includes/render.php:75
+msgid "Powered by GoDaddy"
+msgstr "Funciona gracias a GoDaddy"
+
+#: includes/class-shortcode.php:58
+msgid "Choose one of the available forms."
+msgstr "Elige uno de los formularios disponibles."
+
+#: includes/class-shortcode.php:57
+msgid "Signup Forms"
+msgstr "Formularios de registro"
+
+#. Plugin Name of the plugin
+#: includes/settings.php:62 includes/class-shortcode.php:53
+#: includes/blocks/blocks.js:22
+msgid "GoDaddy Email Marketing"
+msgstr "GoDaddy Email Marketing"
+
+#: godaddy-email-marketing.php:296
+msgid "Let's do it!"
+msgstr "¡Hagámoslo!"
+
+#: godaddy-email-marketing.php:269
+msgid "Learn More"
+msgstr "Más información"
+
+#: godaddy-email-marketing.php:237 includes/settings.php:628
+msgid "Settings"
+msgstr "Ajustes"
+
+#. translators: %s: Name of required field
+#: godaddy-email-marketing.php:222
+msgid "%s is a required field."
+msgstr "%s es un campo requerido."
+
+#: godaddy-email-marketing.php:220
+msgid "Please enter a valid email address."
+msgstr "Por favor, introduce una dirección de correo válida."
+
+#: godaddy-email-marketing.php:217
+msgid "Thank you for signing up!"
+msgstr "¡Gracias por registrarte!"
+
+#. translators: %1$s: <a href="https://gem.godaddy.com">, %2$s: </a>
+#: includes/settings.php:641
+msgid "Email marketing makes it easier than ever to turn casual visits into lasting relationship. You're already collecting subscribers, now you just need to start emailing them. It only takes a few moments to %1$screate an email marketing campaign%2$s."
+msgstr "El marketing por correo electrónico hace que sea más fácil que nunca convertir las visitas casuales en relaciones duraderas. Ya estás recolectando suscriptores, ahora sólo tienes que empezar a escribirles por correo electrónico. Sólo se tarda un momento en %1$screar una campaña de email marketing%2$s."
+
+#. Description of the plugin
+msgid "Add the GoDaddy Email Marketing signup form to your WordPress site! Easy to set up, the plugin allows your site visitors to subscribe to your email lists."
+msgstr "¡Añade el formulario de registro de GoDaddy Email Marketing a tu sitio de WordPress! Fácil de configurar, el plugin permite a los visitantes de su sitio web suscribirse a tus listas de correo electrónico."
+
+#. translators: account details link
+#: includes/settings.php:871
+msgctxt "account details link"
+msgid "sign up here"
+msgstr "regístrate aquí"
+
+#. translators: 1. Sign in here link, 2. Sign up here link
+#: includes/settings.php:871
+msgid "For this plugin to work, it needs to access your GoDaddy Email Marketing account. %1$s to get your username and API key. Copy and paste them below; then click \"Save Settings.\" If you don't have a GoDaddy Email Marketing account, %2$s."
+msgstr "Para que este plugin funcione, necesita acceder a tu cuenta de GoDaddy Email Marketing. %1$s para obtener tu nombre de usuario y clave de API. Cópialos y pégalos abajo; luego haz clic en \"Guardar ajustes\". Si no tienes una cuenta de GoDaddy Email Marketing, %2$s."
+
+#: includes/settings.php:860
+msgid "If you are experiencing issues and are unsure of the cause, you may want to activate debug mode, which displays additional options."
+msgstr "Si tienes problemas y no estás seguro de la causa, es posible que quieras activar el modo de depuración, que muestra opciones adicionales."
+
+#: includes/settings.php:767
+msgid "Create a New Signup Form"
+msgstr "Crear un nuevo formulario de registro"
+
+#: includes/settings.php:609
+msgctxt "header note"
+msgid "Add your GoDaddy Email Marketing signup form to your WordPress site! Easy to set up, the GoDaddy Email Marketing plugin allows your site visitors to subscribe to your email list."
+msgstr "¡Añade tu formulario de registro de GoDaddy Email Marketing a tu sitio de WordPress! Fácil de configurar, el plugin GoDaddy Email Marketing permite que los visitantes de tu sitio se suscriban a tu lista de correo electrónico."
+
+#: includes/settings.php:607
+msgctxt "gem header note"
+msgid "Enjoy the GoDaddy Email Marketing Experience."
+msgstr "Disfruta de GoDaddy Email Marketing Experience."
+
+#: includes/settings.php:466
+msgid "Purges all saved data associated with this plugin."
+msgstr "Purga todos los datos guardados asociados con este plugin."
+
+#: includes/settings.php:454
+msgid "Hard Reset"
+msgstr "Reinicio completo"
+
+#: includes/settings.php:448
+msgid "Purges only the cached data associated with this plugin, and should be attempted before a hard reset."
+msgstr "Purga sólo los datos en caché asociados con este plugin, y debe intentarse antes de un reinicio completo."
+
+#: includes/settings.php:447
+msgid "Erase Transients"
+msgstr "Borrar transitorios"
+
+#: includes/settings.php:317
+msgid "<strong>Shortcode:</strong> You can add a form to any post or page by adding the shortcode (ex. <code>[gem id=80326]</code>) in the page/post editor."
+msgstr "<strong>Shortcode:</strong> Puedes añadir un formulario a cualquier entrada o página añadiendo el shortcode (ej.<code>[gem id=80326]</code>) en el editor de páginas/entradas."
+
+#: includes/settings.php:316
+msgid "<strong>Widget:</strong> Go to Appearance &rarr; widgets and find the widget called “GoDaddy Email Marketing Form” and drag it into the widget area of your choice. You can then add a title and select a form!"
+msgstr "<strong>Widget:</strong> Ve a Apariencia \t widgets, encuentra el widget llamado \"Formulario de GoDaddy Email Marketing\" y arrástralo al área de widgets que quieras. A continuación, puedes añadir un título y seleccionar un formulario."
+
+#: includes/settings.php:273
+msgid "Please fill in the username and the API key first."
+msgstr "Por favor, rellena primero el nombre de usuario y la clave de la API."
+
+#: includes/settings.php:264
+msgid "Connection with GoDaddy Email Marketing has been established! You're all set!"
+msgstr "¡La conexión con GoDaddy Email Marketing ha sido establecida! ¡Está todo listo!"
+
+#: includes/settings.php:260
+msgid "The credentials are incorrect! Please verify that you have entered them correctly."
+msgstr "¡Las credenciales son incorrectas! Por favor, comprueba que las has introducido correctamente."
+
+#: includes/settings.php:256
+msgid "Forms list was successfully updated."
+msgstr "La lista de formularios se ha actualizado correctamente."
+
+#: includes/settings.php:252
+msgid "All transients were removed."
+msgstr "Todos los transitorios fueron eliminados."
+
+#. translators: %s: link to GoDaddy Email Marketing account page
+#: includes/settings.php:313
+msgid "Once the plugin is activated, you will be able to select and insert any of your GoDaddy Email Marketing webforms right into your site. Setup is easy. Below, simply enter your account email address and API key (found in your GoDaddy Email Marketing account [%s] area). Here are the 3 ways you can display a webform on your site:"
+msgstr "Una vez activado el plugin, podrás seleccionar e insertar cualquiera de tus formularios de GoDaddy Email Marketing directamente en tu sitio. La configuración es fácil. A continuación, simplemente introduce la dirección de correo electrónico de tu cuenta y la clave de API (que se encuentra en el área [%s] de tu cuenta de GoDaddy Email Marketing). Aquí están las 3 maneras de las que puedes mostrar un formulario en tu sitio:"
+
+#: includes/settings.php:248
+msgid "All data has been removed."
+msgstr "Todos los datos han sido eliminados."
+
+#: includes/settings.php:61 includes/settings.php:600
+msgid "GoDaddy Email Marketing Signup Forms"
+msgstr "Formularios de registro de GoDaddy Email Marketing"
+
+#: godaddy-email-marketing.php:295
+msgid "You must enter your username &amp; API key for it to work."
+msgstr "Debes introducir antes tu nombre de usuario y la clave de la API para que funcione."
+
+#: godaddy-email-marketing.php:295
+msgid "GoDaddy Email Marketing is almost ready."
+msgstr "GoDaddy Email Marketing está casi listo."
+
+#. translators: %1$s: Link to plugin settings page with text 'Learn More'.
+#: godaddy-email-marketing.php:268
+msgid "Your website has a superpower: Email marketing. %1$s."
+msgstr "Tu web tiene un superpoder: El Email marketing. %1$s."
+
+#: godaddy-email-marketing.php:219
+msgid "Oops! There was a problem. Please try again."
+msgstr "¡Vaya! Se ha producido un problema. Por favor, inténtalo de nuevo."
+
+#: godaddy-email-marketing.php:218
+msgid "Thank you for signing up! Please check your email to confirm your subscription."
+msgstr "¡Gracias por inscribirte! Por favor, comprueba tu correo electrónico para confirmar tu suscripción."
+
+#. translators: %1$s: &lt;?php gem_form( $form_id ); ?&gt;, %2$s: &lt;?php
+#. gem_form( 91 ); ?&gt;
+#: includes/settings.php:320
+msgid "<strong>Template Tag:</strong> You can add the following template tag into any WordPress file: <code>%1$s</code>. Ex. <code>%2$s</code>"
+msgstr "<strong>Etiqueta de plantilla:</strong> Puedes añadir la siguiente etiqueta de plantilla en cualquier archivo de WordPress: <code>%1$s</code>. Ej. <code>%2$s</code>"
